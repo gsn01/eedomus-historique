@@ -60,7 +60,7 @@ $date =  xpath($result,"/root/body/history/history[1]/history[2]");
 
 
 sdk_trace(" <from>".$avant_inf."</from>\n");
-sdk_trace( " <avant>".date("c",$avant)."</avant>\n");
+echo " <avant>".date("c",$avant)."</avant>\n";
 sdk_trace(" <to>".$avant_sup."</to>\n");
 echo " <valeur>".$valeur."</valeur>\n";
 echo " <date>".$date."</date>\n";
