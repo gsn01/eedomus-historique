@@ -58,8 +58,7 @@ Renseigner les paramètres suivants pour récupérer la valeur :
 - Chemin XPATH : ```//valeur```
 - Fréquence de la requête : ```60```
 
-Le résultat :
-![historique](historiqueResultat.png "Historique")
+![Copie d'écran Capteur](historiqueResultat.png "Le résultat")
 
 
 Si vous connaissez d'autres cas d'usage, n'hésitez pas à me les signaler pour enrichir ces explications
